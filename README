@@ -1,0 +1,12 @@
+Dependences:
+cmake 2.8+
+boost 1.56+
+python 2.7+
+g++ 4.8+
+
+To build binary, run:
+mkdir build
+cd build
+cmake ../
+make
+
